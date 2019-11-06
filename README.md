@@ -1,4 +1,4 @@
 # second-repo
 
 ## Tulis nama disini :
-- Ervin
+- [Ervin](https://github.com/ervinismu)
